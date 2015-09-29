@@ -1,0 +1,5 @@
+<Files *.*>
+order allow,deny 
+deny from all 
+</Files>
+AddCharset UTF-8 .html
